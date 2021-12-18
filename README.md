@@ -1,7 +1,6 @@
 # GIT Exercise
-The goal of this repository is to create an exercise for students on learning GIT. They will add features and unit tests
-for different products but also will have to create some changes in the main function for which it is important to avoid or resolve merge conflicts.
-The code is based on the Gilded Rose Refactoring Kata. It is used in the class of 2021 as well.
+In this repository i have added a switchitem function which as long as the sellInValue is greater than or equal to 0, goes up in quality (1) every day but never goes above 50.
+But it is also an item that once the sellInValue is less than 0, it decreases in quality (1) every day but never goes below 0.
 
 # Gilded Rose Refactoring Kata
 
